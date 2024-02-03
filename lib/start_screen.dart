@@ -4,7 +4,7 @@ class StartScreen extends StatelessWidget {
   const StartScreen({super.key});
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(context) {
     return Center(
       child: Column(
         mainAxisSize: MainAxisSize.min,
