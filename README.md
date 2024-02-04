@@ -1,16 +1,39 @@
-# quiz_app
+# Flutter Quizz App
 
-A new Flutter project.
+A simple Flutter application that presents a series of questions to the user, collects answers, and displays a results screen based on those answers.
+
+## Features
+
+- A set of predefined questions.
+- Answer selection interface.
+- Results screen displaying personalized feedback.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get a local copy up and running follow these simple steps.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Ensure you have Flutter installed on your local machine. For help with installation, see the [official documentation](https://flutter.dev/docs/get-started/install).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+```bash
+git clone [repository-url]
+```
+
+2. Navigate to the project directory:
+```bash
+cd [repository-name]
+```
+
+3. Install the dependencies:
+```bash
+flutter pub get
+```
+
+4. Run the app:
+```bash
+flutter run
+```
